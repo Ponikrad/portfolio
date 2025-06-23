@@ -1,4 +1,3 @@
-/* Global Styles */
 * {
   margin: 0;
   padding: 0;
@@ -33,7 +32,9 @@ body {
   padding: 0 20px;
 }
 
-/* Navigation */
+
+
+
 .navbar {
   position: fixed;
   top: 0;
@@ -112,7 +113,9 @@ body {
   transition: 0.3s;
 }
 
-/* Hero Section */
+
+
+
 .hero {
   min-height: 100vh;
   display: flex;
@@ -274,7 +277,9 @@ body {
   }
 }
 
-/* Sections */
+
+
+
 .section-title {
   text-align: center;
   font-size: 2.5rem;
@@ -296,7 +301,9 @@ body {
   border-radius: 2px;
 }
 
-/* About Section */
+
+
+
 .about {
   padding: 100px 0;
   background: var(--bg-primary);
@@ -339,7 +346,9 @@ body {
   font-weight: 500;
 }
 
-/* Skills Section */
+
+
+
 .skills {
   padding: 100px 0;
   background: var(--bg-secondary);
@@ -433,7 +442,9 @@ body {
   margin-bottom: 1rem;
 }
 
-/* Contact Section */
+
+
+
 .contact {
   padding: 100px 0;
   background: var(--bg-secondary);
@@ -484,7 +495,9 @@ body {
   box-shadow: var(--shadow);
 }
 
-/* Footer */
+
+
+
 .footer {
   background: var(--bg-dark);
   color: var(--text-light);
@@ -492,7 +505,9 @@ body {
   text-align: center;
 }
 
-/* Responsive Design */
+
+
+
 @media (max-width: 768px) {
   .nav-menu {
     position: fixed;
